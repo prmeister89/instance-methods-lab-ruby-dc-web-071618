@@ -8,5 +8,4 @@ class Dog
     puts "This dog is sitting"
   end
   
-  
 end
